@@ -179,6 +179,10 @@ footer{
     padding:auto;
   }
 
+  #profile p{
+    margin-top: auto;
+  }
+
   #profile .container img {
     width: 50%;
   }
@@ -203,6 +207,10 @@ footer{
   #interests img {
     height: 35px;
     width: 35px;
+  }
+
+  #boxes {
+    margin-top: auto;
   }
 
   #boxes iframe{
