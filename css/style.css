@@ -14,14 +14,14 @@ body {
 
 /*Header**/
 header{
-  background: #bdcebe;
-  color: #ffffff;
+  background: #107181;
+  color: #EDAE49;
   padding-top: 30px;
   min-height: 70px;
 }
 
 header a{
-  color:#ffffff;
+  color:#EDD2A8;
   text-decoration: none;
   text-transform: uppercase;
   font-size: 16px;
@@ -47,19 +47,19 @@ header nav{
 }
 
 header .highlight, header .current a{
-  color:#618685;
+  color:#EDAE49;
   font-weight: bold;
 }
 
 header a:hover{
-  color:#618685;
+  color:#EDAE49;
   font-weight: bold;
 }
 
 /*Profile Pictur*/
 #profile p, h1{
   margin-top: 50px;
-  text-align: center;
+  text-align: left;
 }
 #profile .container img{
     display: block;
@@ -151,7 +151,7 @@ hr {
 footer{
   padding: 10px;
   margin-top: 20px;
-  background-color: #85929E;
+  background-color: #003D5B;
   text-align: center;
   color: #FDFEFE;
   bottom: 0;
